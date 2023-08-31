@@ -1,5 +1,5 @@
 {
-  "name": "cordova-os-build-changer",
+  "name": "cordova-firebase-logcat-enable",
   "version": "1.0.0",
   "description": "Cordova Plugin to change default OutSystems Mobile Cordova build",
   "keywords": [
@@ -8,7 +8,7 @@
     "cordova-ios"
   ],
   "cordova": {
-    "id": "cordova-os-build-changer",
+    "id": "cordova-firebase-logcat-enable",
     "platforms": [
       "android",
       "ios"
