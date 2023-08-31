@@ -1,5 +1,5 @@
-# cordova-OS-build-changer
-Cordova Plugin to change OutSystems default files
+# cordova-firebase-logcat-enable
+Cordova Plugin to add firebase logcat to manifest
 
 
 Created by:
