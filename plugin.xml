@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="cordova-os-build-changer" version="1.0"
+    xmlns="http://apache.org/cordova/ns/plugins/1.0"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <name>cordova-firebase-logcat-enable</name>
+
+    <hook type="before_plugin_install" src="hooks/installDependencies.js" />
+
+    <platform name="android">
+        <hook type="after_prepare" src="hooks/firebase_logcat_enable.js" />
+    </platform>
+
+</plugin>
